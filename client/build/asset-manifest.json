@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.125377e3.css",
+    "main.js": "/static/js/main.333d9f07.js",
+    "static/media/vecto.svg": "/static/media/vecto.9861e43f2af6d3469656.svg",
+    "index.html": "/index.html",
+    "main.125377e3.css.map": "/static/css/main.125377e3.css.map",
+    "main.333d9f07.js.map": "/static/js/main.333d9f07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.125377e3.css",
+    "static/js/main.333d9f07.js"
+  ]
+}
