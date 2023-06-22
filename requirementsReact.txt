@@ -1,4 +1,0 @@
-dentro de la carpeta cliente ejecutar:
-
-npm install react-router-dom
-npm install axios
